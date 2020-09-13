@@ -1,0 +1,294 @@
+prediction: 3.329512596130371  actual: 4.0  difference: 0.7  percent difference: 17.5%
+prediction: 4.496371269226074  actual: 5.0  difference: 0.5  percent difference: 10.0%
+prediction: 3.828394889831543  actual: 3.0  difference: -0.8  percent difference: -26.7%
+prediction: 5
+prediction: 4
+prediction: 3
+prediction: 3
+prediction: 4
+3.8
+
+prediction: 4.034296035766602  actual: 4.0  difference: -0.0  percent difference: -0.0%
+prediction: 4.316963195800781  actual: 5.0  difference: 0.7  percent difference: 14.0%
+prediction: 4.03439474105835  actual: 3.0  difference: -1.0  percent difference: -33.3%
+prediction: 4
+prediction: 4
+prediction: 5
+prediction: 3
+prediction: 4
+4.0
+
+ChiliCritic_MSE_relu_1_4
+prediction: 4.81595516204834  actual: 4.0  difference: -0.8  percent difference: -20.0%
+prediction: 3.687716007232666  actual: 5.0  difference: 1.3  percent difference: 26.0%
+prediction: 3.6509859561920166  actual: 3.0  difference: -0.7  percent difference: -23.3%
+prediction: 4
+prediction: 6
+prediction: 8
+prediction: 4
+prediction: 3
+5.0
+
+ChiliCritic_MSE_Sigmoid_2_4
+prediction: 3.9029221534729004  actual: 4.0  difference: 0.1  percent difference: 2.5%
+prediction: 3.8483381271362305  actual: 5.0  difference: 1.2  percent difference: 24.0%
+prediction: 3.444763660430908  actual: 3.0  difference: -0.4  percent difference: -13.3%
+prediction: 5
+prediction: 5
+prediction: 5
+prediction: 4
+prediction: 4
+4.6
+
+ChiliCritic_MSE_Sigmoid_2_5
+prediction: 5.027135372161865  actual: 4.0  difference: -1.0  percent difference: -25.0%
+prediction: 2.7517571449279785  actual: 5.0  difference: 2.2  percent difference: 44.0%
+prediction: 3.405691146850586  actual: 3.0  difference: -0.4  percent difference: -13.3%
+prediction: 2
+prediction: 4
+prediction: 2
+prediction: 3
+prediction: 3
+2.8
+
+ChiliCritic_MSE_Sigmoid_2_6
+prediction: 4.184217929840088  actual: 4.0  difference: -0.2  percent difference: -5.0%
+prediction: 4.33864688873291  actual: 5.0  difference: 0.7  percent difference: 14.0%
+prediction: 4.194708347320557  actual: 3.0  difference: -1.2  percent difference: -40.0%
+prediction: 5
+prediction: 5
+prediction: 6
+prediction: 4
+prediction: 4
+4.8
+
+ChiliCritic_MSE_Sigmoid_2_7
+prediction: 3.2664337158203125  actual: 4.0  difference: 0.7  percent difference: 17.5%
+prediction: 2.8579747676849365  actual: 5.0  difference: 2.1  percent difference: 42.0%
+prediction: 3.520432472229004  actual: 3.0  difference: -0.5  percent difference: -16.7%
+prediction: 4
+prediction: 5
+prediction: 6
+prediction: 3
+prediction: 4
+4.4
+
+ChiliCritic_MSE_Sigmoid_2_11
+prediction: 3.2036209106445312  actual: 4.0  difference: 0.8  percent difference: 20.0%
+prediction: 5.476497173309326  actual: 5.0  difference: -0.5  percent difference: -10.0%
+prediction: 2.5159928798675537  actual: 3.0  difference: 0.5  percent difference: 16.7%
+prediction: 5
+prediction: 5
+prediction: 8
+prediction: 2
+prediction: 3
+4.6
+
+ChiliCritic_MSE_Sigmoid_1_11
+prediction: 4.938851833343506  actual: 4.0  difference: -0.9  percent difference: -22.5%
+prediction: 3.4312992095947266  actual: 5.0  difference: 1.6  percent difference: 32.0%
+prediction: 4.97392463684082  actual: 3.0  difference: -2.0  percent difference: -66.7%
+prediction: 2
+prediction: 6
+prediction: 7
+prediction: 4
+prediction: 3
+4.4
+
+ChiliCritic_MSE_Sigmoid_2_12
+prediction: 4.01767635345459  actual: 4.0  difference: -0.0  percent difference: -0.0%
+prediction: 2.657416582107544  actual: 5.0  difference: 2.3  percent difference: 46.0%
+prediction: 3.8893699645996094  actual: 3.0  difference: -0.9  percent difference: -30.0%
+prediction: 3
+prediction: 4
+prediction: 5
+prediction: 4
+prediction: 3
+3.8
+
+ChiliCritic_MSE_Sigmoid_1_12
+prediction: 2.8573007583618164  actual: 4.0  difference: 1.1  percent difference: 27.5%
+prediction: 4.790263652801514  actual: 5.0  difference: 0.2  percent difference: 4.0%
+prediction: 2.850539445877075  actual: 3.0  difference: 0.1  percent difference: 3.3%
+prediction: 5
+prediction: 5
+prediction: 6
+prediction: 4
+prediction: 3
+4.6
+
+ChiliCritic_MSE_relu_1_12
+prediction: 4.001125812530518  actual: 4.0  difference: -0.0  percent difference: -0.0%
+prediction: 4.297104835510254  actual: 5.0  difference: 0.7  percent difference: 14.0%
+prediction: 4.220895767211914  actual: 3.0  difference: -1.2  percent difference: -40.0%
+prediction: 7
+prediction: 4
+prediction: 6
+prediction: 3
+prediction: 4
+4.8
+
+ChiliCritic_MSE_tanh_1_12
+prediction: 4.166933536529541  actual: 4.0  difference: -0.2  percent difference: -5.0%
+prediction: 3.934133291244507  actual: 5.0  difference: 1.1  percent difference: 22.0%
+prediction: 4.424487113952637  actual: 3.0  difference: -1.4  percent difference: -46.7%
+prediction: 2
+prediction: 4
+prediction: 4
+prediction: 3
+prediction: 3
+3.2
+
+ChiliCritic_SmoothL1_Sigmoid_1_12
+prediction: 2.8096795082092285  actual: 4.0  difference: 1.2  percent difference: 30.0%
+prediction: 4.633028030395508  actual: 5.0  difference: 0.4  percent difference: 8.0%
+prediction: 4.508200645446777  actual: 3.0  difference: -1.5  percent difference: -50.0%
+prediction: 6
+prediction: 8
+prediction: 9
+prediction: 4
+prediction: 3
+6.0
+
+ChiliCritic_L1_Sigmoid_1_12 (5100 epochs)
+prediction: 3.9493324756622314  actual: 4.0  difference: 0.1  percent difference: 2.5%
+prediction: 4.915255069732666  actual: 5.0  difference: 0.1  percent difference: 2.0%
+prediction: 3.8946950435638428  actual: 3.0  difference: -0.9  percent difference: -30.0%
+prediction: 3
+prediction: 4
+prediction: 5
+prediction: 5
+prediction: 4
+4.2
+
+ChiliCritic_L1_Sigmoid_1_12 (3900 epochs)
+prediction: 3.4487154483795166  actual: 4.0  difference: 0.6  percent difference: 15.0%
+prediction: 3.259464740753174  actual: 5.0  difference: 1.7  percent difference: 34.0%
+prediction: 4.297727108001709  actual: 3.0  difference: -1.3  percent difference: -43.3%
+prediction: 5
+prediction: 6
+prediction: 4
+prediction: 4
+prediction: 3
+4.4
+
+ChiliCritic_L1_Sigmoid_1_12 (3000 epochs)
+prediction: 3.3360278606414795  actual: 4.0  difference: 0.7  percent difference: 17.5%
+prediction: 3.4455339908599854  actual: 5.0  difference: 1.6  percent difference: 32.0%
+prediction: 3.4391913414001465  actual: 3.0  difference: -0.4  percent difference: -13.3%
+prediction: 5
+prediction: 6
+prediction: 5
+prediction: 4
+prediction: 2
+4.4
+
+ChiliCritic_L1_Sigmoid_1_12 (1500 epochs)
+prediction: 3.519716501235962  actual: 4.0  difference: 0.5  percent difference: 12.5%
+prediction: 5.053539752960205  actual: 5.0  difference: -0.1  percent difference: -2.0%
+prediction: 2.35762357711792  actual: 3.0  difference: 0.6  percent difference: 20.0%
+prediction: 4
+prediction: 5
+prediction: 5
+prediction: 3
+prediction: 2
+3.8
+
+ChiliCritic_L1_Sigmoid_1_12 (800 epochs)
+prediction: 4.07967472076416  actual: 4.0  difference: -0.1  percent difference: -2.5%
+prediction: 4.939581871032715  actual: 5.0  difference: 0.1  percent difference: 2.0%
+prediction: 3.764341115951538  actual: 3.0  difference: -0.8  percent difference: -26.7%
+prediction: 4
+prediction: 5
+prediction: 5
+prediction: 4
+prediction: 4
+4.4
+
+ChiliCritic_L1_Sigmoid_1_12 (750 epochs)
+prediction: 4.084700584411621  actual: 4.0  difference: -0.1  percent difference: -2.5%
+prediction: 4.733833312988281  actual: 5.0  difference: 0.3  percent difference: 6.0%
+prediction: 3.8063032627105713  actual: 3.0  difference: -0.8  percent difference: -26.7%
+prediction: 5
+prediction: 4
+prediction: 5
+prediction: 3
+prediction: 4
+4.2
+
+ChiliCritic_L1_Sigmoid_1_12_737
+prediction: 3.7302393913269043  actual: 4.0  difference: 0.3  percent difference: 7.5%
+prediction: 4.267481803894043  actual: 5.0  difference: 0.7  percent difference: 14.0%
+prediction: 3.556581735610962  actual: 3.0  difference: -0.6  percent difference: -20.0%
+prediction: 5
+prediction: 4
+prediction: 5
+prediction: 3
+prediction: 3
+4.0
+
+ChiliCritic_L1_Sigmoid_1_12_725 (725 epochs)
+prediction: 4.256807327270508  actual: 4.0  difference: -0.3  percent difference: -7.5%
+prediction: 4.723883628845215  actual: 5.0  difference: 0.3  percent difference: 6.0%
+prediction: 2.9710683822631836  actual: 3.0  difference: 0.0  percent difference: 0.0%
+prediction: 5
+prediction: 4
+prediction: 5
+prediction: 3
+prediction: 3
+4.0
+
+ChiliCritic_L1_Sigmoid_1_12_712 (712 epochs)
+prediction: 4.178509712219238  actual: 4.0  difference: -0.2  percent difference: -5.0%
+prediction: 4.793512344360352  actual: 5.0  difference: 0.2  percent difference: 4.0%
+prediction: 3.838651180267334  actual: 3.0  difference: -0.8  percent difference: -26.7%
+prediction: 5
+prediction: 5
+prediction: 6
+prediction: 4
+prediction: 4
+4.8
+
+ChiliCritic_L1_Sigmoid_1_12 (700 epochs)
+prediction: 4.117917537689209  actual: 4.0  difference: -0.1  percent difference: -2.5%
+prediction: 4.591475486755371  actual: 5.0  difference: 0.4  percent difference: 8.0%
+prediction: 3.2603249549865723  actual: 3.0  difference: -0.3  percent difference: -10.0%
+prediction: 5
+prediction: 5
+prediction: 5
+prediction: 4
+prediction: 3
+4.4
+
+ChiliCritic_L1_Sigmoid_1_12 (650 epochs)
+prediction: 4.067690849304199  actual: 4.0  difference: -0.1  percent difference: -2.5%
+prediction: 4.822253227233887  actual: 5.0  difference: 0.2  percent difference: 4.0%
+prediction: 3.363942861557007  actual: 3.0  difference: -0.4  percent difference: -13.3%
+prediction: 5
+prediction: 4
+prediction: 5
+prediction: 3
+prediction: 3
+4.0
+
+ChiliCritic_L1_Sigmoid_1_12 (600 epochs)
+prediction: 4.104875564575195  actual: 4.0  difference: -0.1  percent difference: -2.5%
+prediction: 4.22535514831543  actual: 5.0  difference: 0.8  percent difference: 16.0%
+prediction: 3.545349359512329  actual: 3.0  difference: -0.5  percent difference: -16.7%
+prediction: 5
+prediction: 4
+prediction: 5
+prediction: 3
+prediction: 4
+4.2
+
+ChiliCritic_L1_Sigmoid_1_12 (500 epochs)
+prediction: 4.0427656173706055  actual: 4.0  difference: -0.0  percent difference: -0.0%
+prediction: 4.497055530548096  actual: 5.0  difference: 0.5  percent difference: 10.0%
+prediction: 3.871090888977051  actual: 3.0  difference: -0.9  percent difference: -30.0%
+prediction: 5
+prediction: 4
+prediction: 5
+prediction: 3
+prediction: 4
+4.2
